@@ -1,4 +1,5 @@
 # AI News Summarizer - Automated Workflow
+![Workflow Screenshot](AI%20Summarizer.png)
 
 An automated workflow that fetches 50 news articles daily and delivers a summarized report via email.
 
